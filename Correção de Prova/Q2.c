@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define SM 1302.00
 
 int main(void) {
